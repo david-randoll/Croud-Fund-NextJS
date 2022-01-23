@@ -7,5 +7,5 @@ This app was created using Next.js and React.js. This was made by taking the Ude
 ## Npm Install
 Run the above command to install required packages
 
-# Npm run dev
+## Npm run dev
 Run the above to run the application.
